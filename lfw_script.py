@@ -10,7 +10,11 @@ for line in f:
 	line = line.split("\n")[0]
 	arr = line.split("	")
 	label = arr[0] 
-	arr = arr[2:] # Take out image_num
+	features = []
+	for elem in arr[2:]:
+		if float(elem) <= 0:
+			features.append(0)
+		else:
+			features.append(1)
 	labels.append(label)
-	data.append(arr)
-
+	data.append(features)
