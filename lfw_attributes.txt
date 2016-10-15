@@ -1,0 +1,72 @@
+Asian - Identity_Related
+White - Identity_Related
+Black - Identity_Related
+Baby - Identity_Related
+Child - Identity_Related
+Youth - Identity_Related
+Middle Aged - Identity_Related
+Senior - Identity_Related
+Black Hair - Identity_Related
+Blond Hair - Identity_Related
+Brown Hair - Identity_Related
+Bald - Identity_Related
+No Eyewear - Identity_Related
+Eyeglasses - Identity_Related
+Sunglasses - Irrelevant
+Mustache - Identity_Related
+Smiling - Irrelevant
+Frowning - Irrelevant
+Chubby - Irrelevant
+Blurry - Irrelevant
+Harsh Lighting - Irrelevant
+Flash - Irrelevant
+Soft Lighting - Irrelevant
+Outdoor - Irrelevant
+Curly Hair - Identity_Related
+Wavy Hair - Identity_Related
+Straight Hair - Identity_Related
+Receding Hairline - Identity_Related
+Bangs - Identity_Related
+Sideburns - Identity_Related
+Fully Visible Forehead - Irrelevant
+Partially Visible Forehead - Irrelevant
+Obstructed Forehead - Irrelevant
+Bushy Eyebrows - Identity_Related
+Arched Eyebrows - Identity_Related
+Narrow Eyes - Identity_Related
+Eyes Open - Irrelevant
+Big Nose - Identity_Related
+Pointy Nose - Identity_Related
+Big Lips - Identity_Related
+Mouth Closed - Irrelevant
+Mouth Slightly Open - Irrelevant
+Mouth Wide Open - Irrelevant
+Teeth Not Visible - Irrelevant
+No Beard - Identity_Related
+Goatee - Identity_Related
+Round Jaw - Identity_Related
+Double Chin - Identity_Related
+Wearing Hat - Irrelevant
+Oval Face - Identity_Related
+Square Face - Identity_Related
+Round Face - Identity_Related
+Color Photo - Irrelevant
+Posed Photo - Irrelevant
+Attractive Man - Irrelevant
+Attractive Woman - Irrelevant
+Indian - Identity_Related
+Gray Hair - Identity_Related
+Bags Under Eyes - Irrelevant
+Heavy Makeup - Irrelevant
+Rosy Cheeks - Irrelevant
+Shiny Skin - Irrelevant
+Pale Skinv - Irrelevant
+5 o' Clock Shadow - Irrelevant
+Strong Nose-Mouth Lines - Irrelevant
+Wearing Lipstick - Irrelevant
+Flushed Face - Irrelevant
+High Cheekbones - Identity_Related
+Brown Eyes - Identity_Related
+Wearing Earrings - Irrelevant
+Wearing Necktie - Irrelevant
+Wearing Necklace - Irrelevant
